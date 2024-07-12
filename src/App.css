@@ -1,0 +1,60 @@
+.logoimg {
+
+    width: 100px !important;
+    /* margin-right: 50px; */
+    /* height: 80px !important; */
+}
+
+.logo {
+    width: 100% !important;
+}
+
+.home {
+    color: rgb(8, 143, 165) !important;
+    font-size: 20px !important;
+    margin-right: 10px;
+}
+
+.nav-link {
+    color: rgb(8, 143, 165) !important;
+}
+
+.navbar-nav .nav-link.show {
+    color:  rgb(8, 143, 165) !important;
+}
+
+.inputbox {
+
+    padding: 7px 200px !important;
+    border-color:  rgb(8, 143, 165) !important;
+}
+
+.btns {
+
+    margin: 0px 20px;
+    padding: 5px 18px !important;
+    font-size: 18px !important;
+    background-color: aliceblue !important;
+    color: rgb(8, 143, 165) !important;
+    --bs-btn-border-color: rgb(8, 143, 165) !important;
+}
+
+.btns:hover {
+
+    background-color: rgb(8, 143, 165) !important;
+    color: black !important;
+}
+
+.imglogo {
+
+    width: 50%;
+    height: 250px;
+}
+
+/* .card {
+    border: var(--bs-card-border-width) solid var(--bs-card-border-color-rgb(8, 143, 165));
+} */
+
+.btncart {
+    background-color: rgb(8, 143, 165) !important;
+}
